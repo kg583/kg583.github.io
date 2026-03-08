@@ -1,5 +1,5 @@
 ---
-title: "KG's Teensy Math Problems: Coprime Labeling"
+title: "Teensy Problems: Coprime Labeling"
 date: 2024-10-26
 categories:
   - teensy-problems

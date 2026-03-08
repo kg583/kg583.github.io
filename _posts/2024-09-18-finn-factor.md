@@ -1,5 +1,5 @@
 ---
-title: "KG's Teensy Math Problems: Finn Factor"
+title: "Teensy Problems: Finn Factor"
 date: 2024-09-18
 categories:
   - teensy-problems

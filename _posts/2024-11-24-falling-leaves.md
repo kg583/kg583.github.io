@@ -1,5 +1,5 @@
 ---
-title: "KG's Teensy Math Problems: Falling Leaves"
+title: "Teensy Problems: Falling Leaves"
 date: 2024-11-24
 categories:
   - teensy-problems

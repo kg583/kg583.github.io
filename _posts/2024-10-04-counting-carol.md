@@ -1,5 +1,5 @@
 ---
-title: "KG's Teensy Math Problems: Counting Carol"
+title: "Teensy Problems: Counting Carol"
 date: 2024-10-04
 categories:
   - teensy-problems
