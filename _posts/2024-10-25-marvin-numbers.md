@@ -1,5 +1,5 @@
 ---
-title: 'KG's Teensy Math Problems: Marvin Numbers'
+title: "KG's Teensy Math Problems: Marvin Numbers"
 date: 2024-10-25
 categories:
   - teensy-problems

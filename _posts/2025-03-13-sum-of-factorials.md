@@ -1,5 +1,5 @@
 ---
-title: 'KG's Teensy Math Problems: Sum of Factorials'
+title: "KG's Teensy Math Problems: Sum of Factorials"
 date: 2025-03-13
 categories:
   - teensy-problems
