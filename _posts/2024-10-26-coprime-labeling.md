@@ -23,20 +23,24 @@ We'll construct a sequence $H_n$ of "nearly complete" graphs: graphs on $n$ vert
 
 <details>
 <summary>Step 2</summary>
-In general, we can make $H_n$ by deleting "bad" edges from $K_n$. However, try to find a way to produce $H_{n+1}$ *directly* from $H_{n}$; that is, without deleting any edges.
+In general, we can make $H_n$ by deleting "bad" edges from $K_n$. However, try to find a way to produce $H_{n+1}$ <i>directly</i> from $H_{n}$; that is, without deleting any edges.
 </details>
 
 <details>
 <summary>Step 3</summary>
-Find an upper bound for the number of edges you add to $H_n$ to get $H_{n+1}$ based on the parity of $n$. *(Bonus: find an exact formula using Euler's totient function.)*
+Find an upper bound for the number of edges you add to $H_n$ to get $H_{n+1}$ based on the parity of $n$.
+
+(Bonus: find an exact formula using Euler's totient function.)
 </details>
 
 <details>
 <summary>Step 4</summary>
-Show that you can add edges to *any* coprimely labeled graph on $n$ vertices to obtain $H_n$. That is, all coprimely labeled graphs on $n$ vertices are *minors* of $H_n$.
+Show that you can add edges to <i>any</i> coprimely labeled graph on $n$ vertices to obtain $H_n$. That is, all coprimely labeled graphs on $n$ vertices are <i>minors</i> of $H_n$.
 </details>
 
 <details>
 <summary>Step 5</summary>
-Combine Steps 3 & 4 to obtain the condition we're after. *(Bonus: find a stronger condition using the exact formula.)*
+Combine Steps 3 & 4 to obtain the condition we're after.
+
+(Bonus: find a stronger condition using the exact formula.)
 </details>
