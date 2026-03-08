@@ -23,6 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "\n\n"
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -76,6 +77,7 @@ defaults:
       type: posts
     values:
       layout: single
+        classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -87,6 +89,7 @@ defaults:
       type: pages
     values:
       layout: single
+        classes: wide
       author_profile: true
 
 category_archive:
