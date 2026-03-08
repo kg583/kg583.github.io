@@ -89,7 +89,7 @@ defaults:
       type: pages
     values:
       layout: single
-        classes: wide
+      classes: wide
       author_profile: true
 
 category_archive:
