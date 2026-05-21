@@ -15,5 +15,5 @@ Finn thinks this process could be made more efficient. He noticed that, for some
 Let $S(p)$ be the smallest subset of primes less than or equal to $p$ which will correctly identify the next prime after $p$. If there's a tie, we will choose the subset with the smallest elements. For example, $S(7) = \{2, 3\}$ as we saw above.
 
 1. Provide the "best" bound for $\max S(p)$ in terms of $p$.
-2. Prove that $\limsup |S(p)|$ is infinite.
-3. Is it true that $\liminf |S(p)|$ exists? What would it mean for the $\liminf$ to equal 1?
+2. Prove that $\limsup \vert S(p) \vert$ is infinite.
+3. Is it true that $\liminf \vert S(p) \vert$ exists? What would it mean for the $\liminf$ to equal 1?
