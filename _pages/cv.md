@@ -11,20 +11,20 @@ redirect_from:
 
 ## Education
 
-- Ph.D. in Mathematics, University of Virginia, expected 2026.
+- Ph.D. in Mathematics, University of Virginia, 2026.
 - B.A. in Mathematics, Vanderbilt University, 2022.
 - B.S. in Computer Science, Vanderbilt University, 2022.
 
 ## Preprints
-
-2. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
 
 1. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
 
 
 ## Publications
 
-6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, to appear (2025). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
+7. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
+
+6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, 474 (2025). **doi**: [10.1016/j.aim.2025.110308](https://doi.org/10.1016/j.aim.2025.110308). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
 
 5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, (2025). **doi**: [10.1007/s00013-025-02109-x](https://doi.org/10.1007/s00013-025-02109-x). **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253).
 
@@ -38,6 +38,7 @@ redirect_from:
 
 ## Talks
 
+- Graduate Student Seminar, University of Virginia -- March 2026
 - JMM Special Session on Partition Theory, *q*-Series, and Related Topics, Washington, D.C. -- January 2026
 - AMS Spring Eastern Sectional Special Session on Partitions and *q*-Series, University of Connecticut - Hartford -- April 2025
 - Graduate Student Seminar, University of Virginia -- September 2024
