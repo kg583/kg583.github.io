@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Kevin Gomez"
   pronouns         : "he/him" 
-  bio              : "Graduate Student"
+  bio              : "Research Scientist"
   location         : "NYU Tandon"
   employer         : "NYU"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "kg583"
-  kaggle           : # Username  
+  kaggle           : "kg583onkaggle"
   stackoverflow    : "16436774/kg583"  
 
   # Social media
