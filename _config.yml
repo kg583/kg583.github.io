@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Kevin Gomez"
 description              : &description "Graduate Student"
 url                      : https://kg583.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/math"
-repository               : "kg583/math"
+baseurl                  : ""
+repository               : "kg583/kg583.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,10 +26,10 @@ author:
   name             : "Kevin Gomez"
   pronouns         : "he/him" 
   bio              : "Graduate Student"
-  location         : "119 Kerchof Hall"
-  employer         : "University of Virginia"
+  location         : "NYU Tandon"
+  employer         : "NYU"
   uri              : # URL
-  email            : "kevin.j.gomez@virginia.edu" 
+  email            : "kg4267@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
