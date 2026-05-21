@@ -1,9 +1,11 @@
 ---
-title: 'KG's Teensy Math Problems: Sum of Factorials'
+title: "Teensy Problems: Sum of Factorials"
 date: 2025-03-13
-permalink: /posts/sum-of-factorials
-tags:
+categories:
   - teensy-problems
+tags:
+  - math
+  - problem
 ---
 
 Let $\mathrm{sf}(n)$ be the *sum-of-factorials* function: $0! + 1! + ... n!$. Its first few values are $1$, $2$, $4$, $10$, $34$, ....
