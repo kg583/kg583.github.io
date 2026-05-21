@@ -12,6 +12,7 @@ redirect_from:
 ## Education
 
 - Ph.D. in Mathematics, University of Virginia, 2026.
+- M.S. in Mathematics, University of Virginia, 2025.
 - B.A. in Mathematics, Vanderbilt University, 2022.
 - B.S. in Computer Science, Vanderbilt University, 2022.
 
