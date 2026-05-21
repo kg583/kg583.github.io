@@ -15,14 +15,11 @@ redirect_from:
 - B.A. in Mathematics, Vanderbilt University, 2022.
 - B.S. in Computer Science, Vanderbilt University, 2022.
 
-## Preprints
-
-1. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
-
-
 ## Publications
 
-7. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
+8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
+
+7. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, Proceedings of the 17th Mathematical Society of Japan's Seasonal Institute (2025). **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
 
 6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, 474 (2025). **doi**: [10.1016/j.aim.2025.110308](https://doi.org/10.1016/j.aim.2025.110308). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
 
