@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Thesis
+
+- K. Gomez, *Modular forms and their zeros: applications to partitions and primes*, Online Archive of University of Virginia Scholarship (2026). **online**: [pdf](https://libraetd.lib.virginia.edu/public_view/oid-d6j3dujj9d6c73h371lg)
+
+
 ## Publications
 
 8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
