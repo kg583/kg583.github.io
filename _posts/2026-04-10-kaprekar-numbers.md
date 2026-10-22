@@ -8,7 +8,7 @@ tags:
   - problem
 ---
 
-Dr. Kaprekar has stumbled upon an interesting class of numbers. A number N is called a "Kaprekar number" if $N^2$, written in base 10, can be split into two parts, $A$ and $B$, such that $N = A + B$. Here are some examples:
+Dr. Kaprekar has stumbled upon an interesting class of numbers. A number $N$ is called a "Kaprekar number" if $N^2$, written in base $10$, can be split into two parts, $A$ and $B$, such that $N = A + B$. Here are some examples:
 ```
    9² =       81 →   8 +     1 =    9
   45² =     2025 →  20 +    25 =   45
