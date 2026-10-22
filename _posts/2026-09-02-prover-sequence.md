@@ -8,7 +8,9 @@ tags:
   - problem
 ---
 
-Recall that a *tree* is an undirected network with no cycles or loops such that any node is reachable from any other. A *labeled* tree is one where we've given each node a unique label, by convention a number between $1$ and $n$ for $n$ the number of nodes in the tree. Two labeled trees are the same if they can be drawn identically, with the same labels and connections. (More technically, we're considering trees up to *isomorphism*, but fret not if you don't know that term.)
+Recall that a *tree* is an undirected network with no cycles or loops such that any node is reachable from any other. A *labeled* tree is one where we've given each node a unique label, by convention a number between $1$ and $n$ for $n$ the number of nodes in the tree. Two labeled trees are the same if they can be drawn identically, with the same labels and connections.
+
+(More technically, we're considering trees up to *isomorphism*, but fret not if you don't know that term.)
 
 Let $T(n)$ be the number of labeled trees with $n$ nodes. Clearly $T(1) = 1$ (there's just one node labeled $1$) and $T(2) = 1$ (there's two nodes, labeled $1$ and $2$, connected to each other; two nodes with no connection is not a tree).
 
@@ -19,6 +21,7 @@ Let $T(n)$ be the number of labeled trees with $n$ nodes. Clearly $T(1) = 1$ (th
 3. Define the "prover sequence" for a tree in the following way (the name will make sense shortly):
 	- Take the node with only one neighbor (called a *leaf*) which has the smallest label, remove it from the tree, and write down the label of its neighbor.
 	- Repeat until there are only two nodes left.
+	
 For example, the prover sequence for the tree shown below is $[4, 4, 4, 5]$: $1$, $2$, and $3$ are all leaves connected to $4$; we remove them, wherein $4$ is a leaf connected to $5$, and then only $5$ & $6$ are left.
 
 4. Given a prover sequence, describe a process for recovering the labeled tree that made it.
