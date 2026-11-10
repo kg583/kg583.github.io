@@ -18,6 +18,10 @@ redirect_from:
 
 ## Publications
 
+10. M. Tsafrir, E. Medeiros, J. Poco, K. Gomez, E. Teixeira, C. Silva, *ProofDiff: Auditable Argument-Level Comparison of AI-Generated Mathematical Proofs*, NeurIPS 2026 VERICODEGEN (to appear). **arXiv**: [2611.10233](https://arxiv.org/abs/2611.10233)
+
+9. S. Patel†, D. Arturi†, K. Gomez†, J. de Dios Pont, J. Poco, E. Teixeira, S. Westrick, C. Silva, C. Hegde, *Lea: An Agent Backbone for Mathematician-Controlled Formalization in Lean*, NeurIPS 2026 MATH-AI (to appear). **arXiv**: [2611.08849](https://arxiv.org/abs/2611.08849)
+
 8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, to appear (2026). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
 
 7. K. Gomez and K. Ono, *Hecke polynomials for the mock modular form arising from the Delta-function*, Proceedings of the 17th Mathematical Society of Japan's Seasonal Institute (2025). **arXiv**: [2506.17178](https://arxiv.org/abs/2506.17178)
@@ -33,6 +37,8 @@ redirect_from:
 2. K. Bringmann, K. Gomez, L. Rolen, Z. Tripp, *Infinite families of crank functions, Stanton-type conjectures, and unimodality*, Research in Mathematical Sciences, 37 (2022). **doi**: [10.1007/s40687-022-00333-3](https://doi.org/10.1007/s40687-022-00333-3). **arXiv**: [2108.12979](https://arxiv.org/abs/2108.12979).
 
 1. K. Gomez and E. Zhu, *Bounds for Coefficients of the f(q) Mock Theta Function and Applications to Partition Ranks*, Journal of Number Theory, 226 (2021), 1-23. **doi**: [10.1016/j.jnt.2021.01.009](https://doi.org/10.1016/j.jnt.2021.01.009). **arXiv**: [2008.08253](https://arxiv.org/abs/2008.08253).
+
+†Shared first author
 
 ## Talks
 

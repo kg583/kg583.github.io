@@ -12,7 +12,16 @@ author_profile: true
 - K. Gomez, *Modular forms and their zeros: applications to partitions and primes*, Online Archive of University of Virginia Scholarship (2026). **online**: [pdf](https://libraetd.lib.virginia.edu/public_view/oid-d6j3dujj9d6c73h371lg)
 
 
-## Publications
+## Computer Science
+
+2. M. Tsafrir, E. Medeiros, J. Poco, K. Gomez, E. Teixeira, C. Silva, *ProofDiff: Auditable Argument-Level Comparison of AI-Generated Mathematical Proofs*, NeurIPS 2026 VERICODEGEN (to appear). **arXiv**: [2611.10233](https://arxiv.org/abs/2611.10233)
+
+1. S. Patel†, D. Arturi†, K. Gomez†, J. de Dios Pont, J. Poco, E. Teixeira, S. Westrick, C. Silva, C. Hegde, *Lea: An Agent Backbone for Mathematician-Controlled Formalization in Lean*, NeurIPS 2026 MATH-AI (to appear). **arXiv**: [2611.08849](https://arxiv.org/abs/2611.08849)
+
+†Shared first author
+
+
+## Number Theory
 
 8. K. Gomez, *Zeros of Hecke polynomials arising from weak eigenforms*, International Journal of Number Theory, 22 (2026), 1969-1985. **doi**: [10.1142/S179304212650096X](https://doi.org/10.1142/S179304212650096X). **arXiv**: [2509.26519](https://arxiv.org/abs/2509.26519)
 
@@ -20,7 +29,7 @@ author_profile: true
 
 6. K. Gomez, K. Ono, H. Saad, and A. Singh, *Pentagonal number recurrence relations for p(n)*, Advances in Mathematics, 474 (2025). **doi**: [10.1016/j.aim.2025.110308](https://doi.org/10.1016/j.aim.2025.110308). **arXiv**: [2411.16968](https://arxiv.org/abs/2411.16968)
 
-5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, **arXiv**: Archiv der Mathematik, (2025). **doi**: [10.1007/s00013-025-02109-x](https://doi.org/10.1007/s00013-025-02109-x). **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253).
+5. K. Gomez, *MacMahonesque partition functions detect sets related to primes*, Archiv der Mathematik, (2025). **doi**: [10.1007/s00013-025-02109-x](https://doi.org/10.1007/s00013-025-02109-x). **arXiv**: [2409.14253](https://arxiv.org/abs/2409.14253).
 
 4. K. Gomez, K. Lakein, and A. Larsen, *Supersingular Loci from Traces of Hecke Operators*, Proceedings of the American Mathematical Society, 151 (2023), 511-525. **doi**: [10.1090/proc/16148](https://doi.org/10.1090/proc/16148). **arXiv**: [2106.15677](https://arxiv.org/abs/2106.15677).
 
@@ -31,7 +40,7 @@ author_profile: true
 1. K. Gomez and E. Zhu, *Bounds for Coefficients of the f(q) Mock Theta Function and Applications to Partition Ranks*, Journal of Number Theory, 226 (2021), 1-23. **doi**: [10.1016/j.jnt.2021.01.009](https://doi.org/10.1016/j.jnt.2021.01.009). **arXiv**: [2008.08253](https://arxiv.org/abs/2008.08253).
 
 
-## Non-Math
+## Other
 
 2. R. Pitasky, K. Gomez, J. Cesarz, *A Secondhand Understanding of Reality: Infinite Craft Subtleties*, in SIGBOVIK, 2024 (2024), 448-468. **online**: [pdf](https://sigbovik.org/2024/proceedings.pdf).
 
